@@ -2,6 +2,10 @@
 
 AI Workspace Pro is a modern admin dashboard built using React, Vite, and Tailwind CSS. It provides a clean, responsive, and user-friendly interface for managing dashboards, user profiles, tables, forms, charts, and other administrative features.
 
+## 🚀 Live Demo
+
+**Deployed Application:** https://ai-workspace-omega.vercel.app/
+
 ## Technologies Used
 
 - React.js
@@ -48,4 +52,4 @@ http://localhost:5173
 
 ## Author
 
-Rohit Kharat
+**Rohit Kharat**
