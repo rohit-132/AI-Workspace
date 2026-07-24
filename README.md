@@ -22,16 +22,10 @@ AI Workspace Pro is a modern admin dashboard built using React, Vite, and Tailwi
 
 ## Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/<your-username>/AI-Workspace-Pro.git
-```
-
 Go to the project folder:
 
 ```bash
-cd AI-Workspace-Pro
+cd free-react-tailwind-admin-dashboard
 ```
 
 Install dependencies:
